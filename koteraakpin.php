@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("green","[]          PEJUANG RECEH GEPREK MARELAN                \n");
-echo color("yellow","[]           TOM'S COMUNNITY MARELAN            \n");
-echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
-echo color("yellow","[]         Sabar Menunggu Gais           \n");
+echo color("red","[]          PEJUANG RECEH MARELAN                \n");
+echo color("yellow","[]         TOM'S COMUNNITY MARELAN            \n");
+echo color("red","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
+echo color("red","[]         Sabar Menunggu Gais           \n");
 echo color("yellow","[] Penulisan Nomor Wajib  Diawali  +62xxxxxxxxxx \n");
 function change(){
         $nama = nama();
