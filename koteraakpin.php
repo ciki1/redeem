@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("red","[]          PEJUANG RECEH MARELAN                \n");
+echo color("red","[]       PEJUANG RUPIAH KITA BERSAMA MARELAN                \n");
 echo color("yellow","[]         TOM'S COMUNNITY MARELAN            \n");
 echo color("red","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("red","[]         Sabar Menunggu Gais           \n");
