@@ -4,7 +4,7 @@ include "function.php";
 echo color("red","[]       PEJUANG RUPIAH KITA BERSAMA MARELAN                \n");
 echo color("yellow","[]             [[BY RAFLI FIKRI]]            \n");
 echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
-echo color("red","[]              [Sabar Menunggu Gais]           \n");
+echo color("red","[]            [Sabar Menunggu Gais]           \n");
 echo color("yellow","[] Penulisan Nomor Wajib  Diawali  +62xxxxxxxxxx \n");
 function change(){
         $nama = nama();
